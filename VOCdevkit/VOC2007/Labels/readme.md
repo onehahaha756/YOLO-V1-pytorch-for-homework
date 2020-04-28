@@ -1,0 +1,1 @@
+运行xmlToLabels.py可以自动将相应的xml标注保存在该文件夹下（以txt的格式）
